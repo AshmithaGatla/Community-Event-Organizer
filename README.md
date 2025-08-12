@@ -1,9 +1,5 @@
 # Community Event Organizer
 
-**Team Members:**  
-- Saiteja Poluka  
-- Ashmitha Gatla  
-
 ## Project Description
 
 The Community Event Organizer is a web application that allows users to create, manage, and explore community events. Users can RSVP for events, filter events based on preferences, post feedback for events, and receive notifications. The project leverages Google Cloud services to provide a scalable, reliable, and efficient solution.
